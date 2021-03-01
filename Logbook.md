@@ -2,11 +2,11 @@
 
 Nome Alunno | Ruolo
 | - | - |
-| Giraudo Michele | 
-| Lamberti Matteo | 
-| Moldoveanu Davide | 
-| Obertino Mattia | 
-| Restagno Simone | 
+| Giraudo Michele | Programmatore
+| Lamberti Matteo | Game Director / Programmatore
+| Moldoveanu Davide | Level Designer / Programmatore
+| Obertino Mattia | Game Designer
+| Restagno Simone | Grafico
 
 ----------------------------
 
