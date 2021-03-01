@@ -12,7 +12,7 @@ Nome Alunno | Ruolo
 
 Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | - | - | - | - | - | - | - |
-| 1 Marzo |  |  | -Scelto nome del team\n -cioa | |
+| 1 Marzo |  |  | -Scelto nome del team \n -cioa | |
 | | | | | |
 | | | | | |
 | | | | | |
