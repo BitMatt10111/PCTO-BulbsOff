@@ -1,4 +1,8 @@
 # PCTO-BulbsOff
+
+----------------------------
+
+##Ruoli
 Nome Alunno | Ruolo
 | - | - |
 | Giraudo Michele | 
@@ -9,6 +13,7 @@ Nome Alunno | Ruolo
 
 ----------------------------
 
+##Diario di Bordo
 Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | - | - | - | - | - | - | - |
 | | | | | |
