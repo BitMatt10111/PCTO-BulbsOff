@@ -1,7 +1,5 @@
 # PCTO-BulbsOff
 
-----------------------------
-
 Nome Alunno | Ruolo
 | - | - |
 | Giraudo Michele | 
