@@ -2,7 +2,7 @@
 
 ----------------------------
 
-##Ruoli
+# #Ruoli
 Nome Alunno | Ruolo
 | - | - |
 | Giraudo Michele | 
