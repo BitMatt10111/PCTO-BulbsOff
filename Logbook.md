@@ -1,5 +1,8 @@
 # PCTO-BulbsOff
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell 
+Data  | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note 
+------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
