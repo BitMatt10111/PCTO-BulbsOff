@@ -12,7 +12,7 @@ Nome Alunno | Ruolo
 
 Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | - | - | - | - | - | - | - |
-| 1 Marzo |  |  | =heading1=<br>==heading2==<br>===heading3=== | |
+| 1 Marzo |  |  | -heading1=<br>-heading2<br>-heading3 | |
 | |  |  | | |
 | | | | | |
 | | | | | |
