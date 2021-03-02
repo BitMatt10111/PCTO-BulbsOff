@@ -17,5 +17,5 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 2 Marzo | 8:00 - 10:50 | Lamberti, Giraudo, Moldoveanu | Programmazione | Guardato video su implemntazione movimenti e fisica Unity su C# | |
 | 2 Marzo | 8:00 - 10:50 | Obertino, Restagno | Grafica | Guardato video su sprite, tiles e texture, in generale come integrare la grafica su Unity | |
 | 2 Marzo | 10:50 - 13:35 | Team | Generale | Ascolto presentazione interfacce uomo macchina e spiegazione sindrome sclerosi multipla e attività di riabilitazione | |
-| | | | | |
+| 2 Marzo | 19:00 - 19:20 | Restagno | Grafica | Creazione logo | |
 | | | | | |
