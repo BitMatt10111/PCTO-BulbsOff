@@ -19,5 +19,5 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 2 Marzo | 10:50 - 13:35 | Team | Generale | Ascolto presentazione interfacce uomo macchina e spiegazione sindrome sclerosi multipla e attività di riabilitazione | |
 | 2 Marzo | 19:00 - 19:20 | Restagno | Grafica | Creazione logo con [Pixilart](https://www.pixilart.com/) | |
 | 3 Marzo | 8:00 - 9:00 | Team | 
-| 3 Marzo | 9:00 - 12:40 | Restagno | Grafica | Health Bar e Player sprites | |
-| 3 Marzo | 9:00 - 12:40 | Obertino | Grafica | Selezione vari sfondi | |
+| 3 Marzo | 9:00 - 12:40 | Restagno | Grafica | Creazione Health Bar e Player sprites con con [Pixilart](https://www.pixilart.com/) | |
+| 3 Marzo | 9:00 - 12:40 | Obertino | Grafica | Creazione sfondo con con [Photoshop](https://www.photoshop.com/en) | |
