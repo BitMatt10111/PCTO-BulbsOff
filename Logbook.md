@@ -14,4 +14,4 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 3 Marzo | 9:30 - 12:40 | Moldoveanu | Grafica | Ideato struttra generale livelli del videogioco (layer di difficoltà) | |
 | 3 Marzo | 9:30 - 12:40 | Lamberti, Giraudo | Programmazione | Guardato video esplicativi sull'implementazione di Opencv su Unity | |
 | 3 Marzo | 12:40 - 13:35 | Team | Generale | Descritto al professore le caratteristiche principali del progetto e ascoltato i relativi consigli | |
- 
+| 3 Marzo | 19:30 - 21:15 | Obertino | Grafica | Rifinitura a mano sfondo | |
