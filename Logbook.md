@@ -15,3 +15,7 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 3 Marzo | 9:30 - 12:40 | Lamberti, Giraudo | Programmazione | Guardato video esplicativi sull'implementazione di Opencv su Unity | |
 | 3 Marzo | 12:40 - 13:35 | Team | Generale | Descritto al professore le caratteristiche principali del progetto e ascoltato i relativi consigli | |
 | 3 Marzo | 19:30 - 21:15 | Obertino | Grafica | Rifinitura a mano sfondo | |
+| 4 Marzo | 8:00 - 13:35 | Obertino | Grafica | Diusegno personaggio nemico base + 2 animazioni | |
+| 4 Marzo | 8:00 - 13:35 | Restagno | Grafica | Disegno 2 blocchi + 3 animazioni personaggio principale | |
+| 4 Marzo | 8:00 - 13:35 | Moldoveanu, Lamberti | Programmazione | Programmazione movimenti player, animazioni e salto + elementi di sfondo | |
+| 4 Marzo | 8:00 - 13:35 | Giraudo | Programmazione | Ideazione e realizzazione menù di gioco | |
