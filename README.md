@@ -9,4 +9,4 @@ Nome Alunno | Ruolo
 | Restagno Simone | Graphic
 
 #LOGO TEAM
-![Markdown Plus](https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo.png)
+![Logo](/Desktop/Logo.png)
