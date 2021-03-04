@@ -1,6 +1,6 @@
 # README
 
-Nome Alunno | Ruolo
+Nome Alunno | Ruolo                                   ![Markdown Plus](https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo.png)
 | - | - |
 | Giraudo Michele | Programmer
 | Lamberti Matteo | Game Director / Handyman
