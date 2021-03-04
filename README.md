@@ -9,4 +9,4 @@ Nome Alunno | Ruolo
 | Restagno Simone | Graphic
 
 #LOGO TEAM
-![Logo](/Desktop/Logo.png)
+
