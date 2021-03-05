@@ -20,4 +20,5 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 4 Marzo | 8:00 - 13:35 | Moldoveanu, Lamberti | Programmazione | Programmazione movimenti player, animazioni e salto + elementi di sfondo | |
 | 4 Marzo | 8:00 - 13:35 | Giraudo | Programmazione | Ideazione e realizzazione menù di gioco | |
 | 5 Marzo | 8:00 - 12:30 | Giraudo, Lamberti, Moldoveanu | Programmazione | -Programmazione telecamera mobile che segue il personaggio giocante<br>-Programmazione nemico con movimenti | |
-
+| 5 Marzo | 8:00 - 12:30 | Obertino | Grafica | Disegno elementi missione di potenziamento per SM con [Pixilart](https://www.pixilart.com/) | |
+| 5 Marzo | 8:00 - 12:30 | Obertino | Grafica | Disegnato ambientazione a mano con [Pixilart](https://www.pixilart.com/) (8  layer) | |
