@@ -1,4 +1,4 @@
-# README OF REHAB
+# README OF REHAB ADVENTURE
 
 ### TEAM:
 
@@ -22,7 +22,7 @@ Unity 3D, OpenCV
 <img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/C%23Snippet.jpeg" width="500">
 
 ### DESCRIZIONE:
-Nome game: Rehab 
+Nome game: Rehab Adventure
 
 Il nostro videogame si presenta come un classico gioco platform 2D in cui il protagonista deve avanzare nei livelli eliminando nemici e facendo missioni (utilizzo openCV) nelle quali il giocatore sarà portato a fare degli esercizi di riabilitazione per la SM.
 Es. prima missione:
