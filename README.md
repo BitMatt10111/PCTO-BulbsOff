@@ -1,6 +1,6 @@
 # README OF REHAB
 
-#### TEAM:
+### TEAM:
 
 Nome Alunno | Ruolo                                   
 | - | - |
