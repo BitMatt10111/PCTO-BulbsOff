@@ -1,5 +1,7 @@
 # README OF REHAB
 
+#### TEAM:
+
 Nome Alunno | Ruolo                                   
 | - | - |
 | Giraudo Michele | Programmer
@@ -8,7 +10,7 @@ Nome Alunno | Ruolo
 | Obertino Mattia | Game Designer
 | Restagno Simone | Graphic
 
-### LOGO TEAM
+### LOGO:
 
 <img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/Logo.png" width="256">
 
