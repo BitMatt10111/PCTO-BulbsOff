@@ -8,14 +8,14 @@ Nome Alunno | Ruolo
 | Obertino Mattia | Game Designer
 | Restagno Simone | Graphic
 
-#LOGO TEAM
+### LOGO TEAM
 
 ![Logo](https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/Logo.png )
 
 
-#Tecnologia Utilizzata: Unity 3D, OpenCV
+### Tecnologia Utilizzata: Unity 3D, OpenCV
 
-#Descrizione del Gioco:
+### Descrizione del Gioco:
 
 Nome game: Rahab 
 Descrizione: 
