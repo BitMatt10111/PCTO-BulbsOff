@@ -17,6 +17,8 @@ Nome Alunno | Ruolo
 ### TECNOLOGIE UTILIZZATE: 
 Unity 3D, OpenCV
 
+<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/immagine1.PNG" width="300">
+
 ### DESCRIZIONE:
 Nome game: Rehab 
 
