@@ -22,3 +22,5 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 5 Marzo | 8:00 - 12:30 | Giraudo, Lamberti, Moldoveanu | Programmazione | -Programmazione telecamera mobile che segue il personaggio giocante<br>-Programmazione nemico con movimenti | |
 | 5 Marzo | 8:00 - 12:30 | Obertino | Grafica | Disegno elementi missione di potenziamento per SM con [Pixilart](https://www.pixilart.com/) | |
 | 5 Marzo | 8:00 - 12:30 | Obertino | Grafica | Disegnato ambientazione a mano con [Pixilart](https://www.pixilart.com/) (8  layer) | |
+| 5 Marzo | 12:30 - 13:35 | Team | Inglese | Assistito alla lezione con la lettrice madrelingua | |
+| 5 Marzo | 15:45 - 17:45 | Team | Generale | Presentazione ad esperti dei lavori in corso e raccolta consigli | |
