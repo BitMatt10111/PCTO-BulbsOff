@@ -15,7 +15,7 @@ Nome Alunno | Ruolo
 
 #Tecnologia Utilizzata: Unity 3D, OpenCV
 
-#Descrizione del Gioco
+#Descrizione del Gioco:
 
 Nome game: Rahab 
 Descrizione: 
