@@ -1,4 +1,4 @@
-# REHAB
+# README OF REHAB
 
 Nome Alunno | Ruolo                                   
 | - | - |
@@ -13,7 +13,7 @@ Nome Alunno | Ruolo
 ![Logo](https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/Logo.png )
 
 
-### TECNOLLOGIE UTILIZZATE: 
+### TECNOLOGIE UTILIZZATE: 
 Unity 3D, OpenCV
 
 ### DESCRIZIONE:
