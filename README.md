@@ -1,4 +1,4 @@
-# README
+# REHAB
 
 Nome Alunno | Ruolo                                   
 | - | - |
@@ -13,11 +13,11 @@ Nome Alunno | Ruolo
 ![Logo](https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/Logo.png )
 
 
-### Tecnologia Utilizzata: Unity 3D, OpenCV
+### TECNOLLOGIE UTILIZZATE: 
+Unity 3D, OpenCV
 
-### Descrizione del Gioco:
-
-Nome game: Rahab 
+### DESCRIZIONE:
+Nome game: Rehab 
 
 Il nostro videogame si presenta come un classico gioco platform 2D in cui il protagonista deve avanzare nei livelli eliminando nemici e facendo missioni (utilizzo openCV) nelle quali il giocatore sarà portato a fare degli esercizi di riabilitazione per la SM.
 Es. prima missione:
