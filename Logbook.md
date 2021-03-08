@@ -9,7 +9,7 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 2 Marzo | 10:50 - 13:35 | Team | Generale | Ascolto presentazione interfacce uomo macchina e spiegazione sindrome sclerosi multipla e attività di riabilitazione | |
 | 2 Marzo | 19:00 - 19:20 | Restagno | Grafica | Creazione logo con [Pixilart](https://www.pixilart.com/) | |
 | 3 Marzo | 8:00 - 9:30 | Team | Generale | Brainstorming per decidere che esercizio di potenziamento implementare e in base a quello strutturare la base del gioco | |
-| 3 Marzo | 9:30 - 12:40 | Restagno | Grafica | Creazione Health Bar e Player sprites con con [Pixilart](https://www.pixilart.com/) | |
+| 3 Marzo | 9:30 - 12:40 | Restagno | Grafica | Creazione Player sprites con con [Pixilart](https://www.pixilart.com/) | |
 | 3 Marzo | 9:30 - 12:40 | Obertino | Grafica | Creazione sfondo con con [Photoshop](https://www.photoshop.com/en) | |
 | 3 Marzo | 9:30 - 12:40 | Moldoveanu | Grafica | Ideato struttra generale livelli del videogioco (layer di difficoltà) | |
 | 3 Marzo | 9:30 - 12:40 | Lamberti, Giraudo | Programmazione | Guardato video esplicativi sull'implementazione di Opencv su Unity | |
@@ -24,3 +24,8 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 5 Marzo | 8:00 - 12:30 | Obertino | Grafica | Disegnato ambientazione a mano con [Pixilart](https://www.pixilart.com/) (8  layer) | |
 | 5 Marzo | 12:30 - 13:35 | Team | Inglese | Assistito alla lezione con la lettrice madrelingua | |
 | 5 Marzo | 15:45 - 17:45 | Team | Generale | Presentazione ad esperti dei lavori in corso e raccolta consigli | |
+| 8 Marzo | 8:00 - 13:35 | Giraudo | Programmazione | Eventi e bottoni per missione potenziamento per SM | |
+| 8 Marzo | 8:00 - 13:35 | Moldoveanu | LevelDesign | Creazione percorso e studio posizione nemici | |
+| 8 Marzo | 8:00 - 13:35 | Lamberti | Programmazione | Moviemto nemico + animazione e attacco player + animazione | |
+| 8 Marzo | 8:00 - 13:35 | Obertino | Grafica | sprites nemico statico + spirale + legenda usando [Pixilart](https://www.pixilart.com/) | |
+| 8 Marzo | 8:00 - 13:35 | Restagno | Grafica | 3 animazioni attacco + 3 blocchi secondari | |
