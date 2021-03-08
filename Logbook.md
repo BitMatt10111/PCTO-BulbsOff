@@ -27,5 +27,5 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 8 Marzo | 8:00 - 13:35 | Giraudo | Programmazione | Eventi e bottoni per missione potenziamento per SM | |
 | 8 Marzo | 8:00 - 13:35 | Moldoveanu | LevelDesign | Creazione percorso e studio posizione nemici | |
 | 8 Marzo | 8:00 - 13:35 | Lamberti | Programmazione | Moviemto nemico + animazione e attacco player + animazione | |
-| 8 Marzo | 8:00 - 13:35 | Obertino | Grafica | sprites nemico statico + spirale + legenda usando [Pixilart](https://www.pixilart.com/) | |
+| 8 Marzo | 8:00 - 13:35 | Obertino | Grafica | sprites nemico statico + spirale + legenda usando [Pixilart](https://www.pixilart.com/) e [Photoshop](https://www.photoshop.com/en) | |
 | 8 Marzo | 8:00 - 13:35 | Restagno | Grafica | 3 animazioni attacco + 3 blocchi secondari usando [Pixilart](https://www.pixilart.com/) | |
