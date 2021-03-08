@@ -25,7 +25,11 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 5 Marzo | 12:30 - 13:35 | Team | Inglese | Assistito alla lezione con la lettrice madrelingua | |
 | 5 Marzo | 15:45 - 17:45 | Team | Generale | Presentazione ad esperti dei lavori in corso e raccolta consigli | |
 | 8 Marzo | 8:00 - 13:35 | Giraudo | Programmazione | Eventi e bottoni per missione potenziamento per SM | |
-| 8 Marzo | 8:00 - 13:35 | Moldoveanu | LevelDesign | Creazione percorso e studio posizione nemici | |
-| 8 Marzo | 8:00 - 13:35 | Lamberti | Programmazione | Moviemto nemico + animazione e attacco player + animazione | |
+| 8 Marzo | 8:00 - 13:35 | Moldoveanu | LevelDesign | Creazione percorso e studio posizione nemici nel progetto finale | |
+| 8 Marzo | 8:00 - 13:35 | Lamberti | Programmazione | Implemetnazione moviemto nemico e relativa animazione + attacco player e relativa animazione | |
 | 8 Marzo | 8:00 - 13:35 | Obertino | Grafica | sprites nemico statico + spirale + legenda usando [Pixilart](https://www.pixilart.com/) e [Photoshop](https://www.photoshop.com/en) | |
 | 8 Marzo | 8:00 - 13:35 | Restagno | Grafica | 3 animazioni attacco + 3 blocchi secondari usando [Pixilart](https://www.pixilart.com/) | |
+| 8 Marzo | 15:20 - 19:20 | Moldoveanu | Programmazione | Inserimento player con relativi codici e animazioni + nemici con codici e animazioni + correzione bachi | |
+| 8 Marzo | 16:00 - 19:20 | Lamberti | Programmazione | Scrittura codice attacco + correzione bachi | |
+| 8 Marzo | 16:00 - 18:00 | Giraudo | Programmazione | Implementazione eventi per missione SM | |
+
