@@ -31,5 +31,5 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 8 Marzo | 8:00 - 13:35 | Restagno | Grafica | 3 animazioni attacco + 3 blocchi secondari usando [Pixilart](https://www.pixilart.com/) | |
 | 8 Marzo | 15:20 - 19:20 | Moldoveanu | Programmazione | Inserimento player con relativi codici e animazioni + nemici con codici e animazioni + correzione bachi | |
 | 8 Marzo | 16:00 - 19:20 | Lamberti | Programmazione | Scrittura codice attacco + correzione bachi | |
-| 8 Marzo | 16:00 - 18:00 | Giraudo | Programmazione | Implementazione eventi per missione SM | |
+| 8 Marzo | 16:00 - 18:00 | Giraudo | Programmazione | Eventi e bottoni per missione potenziamento per SM | |
 
