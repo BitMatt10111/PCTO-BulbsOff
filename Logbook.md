@@ -32,4 +32,9 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 8 Marzo | 15:20 - 19:20 | Moldoveanu | Programmazione | Inserimento player con relativi codici e animazioni + nemici con codici e animazioni + correzione bachi | |
 | 8 Marzo | 16:00 - 19:20 | Lamberti | Programmazione | Scrittura codice attacco + correzione bachi | |
 | 8 Marzo | 16:00 - 18:00 | Giraudo | Programmazione | Eventi e bottoni per missione potenziamento per SM | |
+| 9 Marzo | 8:00 - 13.35 | Moldoveanu | Programmazione | Inserimento nemici con relativi codici e animazioni + morte e attaco del player + correzione bachi | |
+| 9 Marzo | 8:00 - 13.35 | Lamberti | Programmazione | Morte e attaco del player + correzione bachi | |
+| 9 Marzo | 8:00 - 13.35 | Giraudo | Programmazione |  | |
+| 9 Marzo | 8:00 - 13.35 | Obertino | Grafica |  | |
+| 9 Marzo | 8:00 - 13.35 | Restagno | Grafica |  | |
 
