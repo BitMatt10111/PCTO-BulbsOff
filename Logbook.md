@@ -33,8 +33,20 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 8 Marzo | 16:00 - 19:20 | Lamberti | Programmazione | Scrittura codice attacco + correzione bachi | |
 | 8 Marzo | 16:00 - 18:00 | Giraudo | Programmazione | Eventi e bottoni per missione potenziamento per SM | |
 | 9 Marzo | 8:00 - 13.35 | Moldoveanu | Programmazione | Inserimento nemici con relativi codici e animazioni + morte e attaco del player + correzione bachi | |
-| 9 Marzo | 8:00 - 13.35 | Lamberti | Programmazione | Morte e attaco del player + correzione bachi | |
-| 9 Marzo | 8:00 - 13.35 | Giraudo | Programmazione |  | |
-| 9 Marzo | 8:00 - 13.35 | Obertino | Grafica |  | |
-| 9 Marzo | 8:00 - 13.35 | Restagno | Grafica |  | |
+| 9 Marzo | 8:00 - 13.35 | Lamberti | Programmazione | Morte e attaco del player con relative animazioni + correzione bachi | |
+| 9 Marzo | 8:00 - 13.35 | Giraudo | Programmazione | Fine eventi e bottoni per missione potenziamento per SM con codice | |
+| 9 Marzo | 8:00 - 13.35 | Obertino | Grafica | Disegno cespugli (2 varianti) + animazione nemico statico + scelta posizionamento elementi background usando [Pixilart](https://www.pixilart.com/) | |
+| 9 Marzo | 8:00 - 13.35 | Restagno | Grafica | Disegno player fantasma + animazioni attacco 2x + almbero (2 varianti) usando [Pixilart](https://www.pixilart.com/) | |
+| 9 Marzo | 16:00 - 17:30 | Giraudo, Lamberti | Prova interzione python, c# per openCV | |
+| 10 Marzo | 8:00 - 13:35 | Giraudo, Lamberti | Creazione missione finale per SM + codici python e c# correlati ad openCV | |
+| 10 Marzo | 8:00 - 13:35 | Obertino | Disegno cursore con [Pixilart](https://www.pixilart.com/) e [Photoshop](https://www.photoshop.com/en) + inizio scrittura Wiki | |
+| 10 Marzo | 8:00 - 13:35 | Moldoveanu, Restagno | Ordinato il repository con nomi e cartelle corretti + aiuto scrittura Wiki | |
+
+
+
+
+
+
+
+
 
