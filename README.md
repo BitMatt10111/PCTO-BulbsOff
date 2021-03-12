@@ -17,9 +17,9 @@ Nome Alunno | Ruolo
 ### TECNOLOGIE UTILIZZATE: 
 Unity 3D, OpenCV
 
-<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/immagine2.PNG" width="500">
-<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/immagine3.png" width="500">
-<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/C%23Snippet.jpeg" width="500">
+<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/WorkInProgress/img1.png" width="500">
+<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/WorkInProgress/img2.png" width="500">
+<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/WorkInProgress/C%23Snippet.jpeg" width="500">
 
 ### DESCRIZIONE:
 Nome game: Rehab Adventure
