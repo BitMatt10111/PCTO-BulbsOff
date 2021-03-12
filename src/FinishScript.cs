@@ -12,8 +12,9 @@ public class FinishScript : MonoBehaviour
     public void Restart(){
         ChangeScene(1);
     }
-
+   
     void ChangeScene(int n){
+     //The LoadScene method is used to start a scene
         SceneManager.LoadScene(n);
     }
 }
