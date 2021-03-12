@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class PlayerMovement : MonoBehaviour
 {
     Rigidbody2D body;
-    Animator anim;
+    Animator anim; //variable associated to the animator 
     [SerializeField]
     float moveSpeed=1.4f;
     [SerializeField]
@@ -32,53 +32,53 @@ public class PlayerMovement : MonoBehaviour
 
     void Movement()
     {
-        float h=Input.GetAxis("Horizontal");
-        Vector2 velocity=new Vector2(Vector2.right.x*moveSpeed*h,body.velocity.y);
-        body.velocity=velocity;
+        float h=Input.GetAxis("Horizontal"); //take the axes
+        Vector2 velocity=new Vector2(Vector2.right.x*moveSpeed*h,body.velocity.y); //create the velocity Vector2
+        body.velocity=velocity; //set the velocity to the velocity of the player
 
         if(velocity.x<0)
         {
-            body.transform.localScale=new Vector3(-1,1,1);
+            body.transform.localScale=new Vector3(-1,1,1); //change the direction of the sprite
         }else{
-            body.transform.localScale=new Vector3(1,1,1);
+            body.transform.localScale=new Vector3(1,1,1); //change the direction of the sprite
         }
-        anim.SetFloat("isMoving",Mathf.Abs(h));
+        anim.SetFloat("isMoving",Mathf.Abs(h)); //if the player is moving active the animation 
     }
 
     void Jump()
     {
-        if(isJumping){
-            if(body.velocity.y==0){
-                isJumping=false;
+        if(isJumping){ //Check if the player is jumping
+            if(body.velocity.y==0){ //so if the body of player is not moving in y axis
+                isJumping=false; //set this to false
             }
-        }else{
-            if(Input.GetAxis("Jump")>0){
-                body.AddForce(Vector2.up*jumpForce,ForceMode2D.Impulse);
-                isJumping=true;
+        }else{ //if is not jumping
+            if(Input.GetAxis("Jump")>0){ //if the general key for jump is pressed (pc = spacebar)
+                body.AddForce(Vector2.up*jumpForce,ForceMode2D.Impulse); //is added an impulse force to make the player jump
+                isJumping=true; //so this now is true
             }
         }
     }
 
     void Fallen(){
-        if(gameObject.transform.position.y < -3.2){
-            Death();
+        if(gameObject.transform.position.y < -3.2){ //check if the player is gone off the path
+            Death(); //so kill the player
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D other){
-        if(other.gameObject.tag == "Enemy"){
-            Death();
+    private void OnCollisionEnter2D(Collision2D other){ //if there is a collision
+        if(other.gameObject.tag == "Enemy"){ //if the collision is with an Enemy
+            Death(); //so kill the player
         }
     }
 
-    public void Death(){
-        GetComponent<CircleCollider2D>().enabled = false;
-        GetComponent<BoxCollider2D>().enabled = false;
-        GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
-        GetComponent<PlayerCombat>().enabled = false;
-        anim.SetBool("isDead",true);
-        this.enabled = false;
-        ChangeScene(3);
+    public void Death(){ //kill the player
+        GetComponent<CircleCollider2D>().enabled = false; //disable the player hitbox
+        GetComponent<BoxCollider2D>().enabled = false; //disable the player hitbox
+        GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static; //disable the player phisics
+        GetComponent<PlayerCombat>().enabled = false; //disable the combat script
+        anim.SetBool("isDead",true); //is setted the death animation
+        this.enabled = false; //disable this script
+        ChangeScene(3); //change the scene to the mission
     }
 
     void ChangeScene(int n){
