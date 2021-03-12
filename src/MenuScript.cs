@@ -23,8 +23,11 @@ public class MenuScript : MonoBehaviour
          ok=!ok;
         simbolsKey.enabled=ok;
     }
-
+    
+         
+    //This method is used to change the scene
     void ChangeScene(){
+        //The LoadScene method is used to start a scene
         SceneManager.LoadScene(1);
     }
 }
