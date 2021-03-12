@@ -10,7 +10,7 @@ Nome Alunno | Ruolo
 | Obertino Mattia | Game Designer
 | Restagno Simone | Graphic
 
-### LOGO:
+### LOGO DEL TEAM:
 
 <img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/LogoTeam.png" width="256">
 
@@ -22,7 +22,7 @@ Unity 3D, OpenCV
 <img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/WorkInProgress/C%23Snippet.png" width="500">
 
 ### DESCRIZIONE:
-Nome game: Rehab Adventure
+| Nome game: Rehab Adventure | <img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/Icon.png" width="500"> |
 
 Il nostro videogame si presenta come un classico gioco platform 2D in cui il protagonista deve avanzare nei livelli eliminando nemici e facendo missioni (utilizzo openCV) nelle quali il giocatore sarà portato a fare degli esercizi di riabilitazione per la SM.
 Es. prima missione:
