@@ -12,7 +12,7 @@ Nome Alunno | Ruolo
 
 ### LOGO:
 
-<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/Logo%20e%20Immagini%20del%20Gioco/LogoTeam.png" width="256">
+<img src="https://github.com/BitMatt10111/PCTO-BulbsOff/blob/main/LogoTeam.png" width="256">
 
 ### TECNOLOGIE UTILIZZATE: 
 Unity 3D, OpenCV
