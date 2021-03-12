@@ -41,12 +41,10 @@ Data | Ore | Alunno | Masione | Attività Svolta | Visto del Tutor | Note
 | 10 Marzo | 8:00 - 13:35 | Giraudo, Lamberti | Programmazione | Creazione missione finale per SM + codici python e c# correlati ad openCV | |
 | 10 Marzo | 8:00 - 13:35 | Obertino | Grafica e Documentazione | Disegno cursore con [Pixilart](https://www.pixilart.com/) e [Photoshop](https://www.photoshop.com/en) + inizio scrittura Wiki | |
 | 10 Marzo | 8:00 - 13:35 | Moldoveanu, Restagno | Ordine e Documentazione | Ordinato il repository con nomi e cartelle corretti + aiuto scrittura Wiki | |
-
-
-
-
-
-
-
-
-
+| 10 Marzo | 16:00 - 18:00 | Giraudo, Lamberti | Programmazione | Risoluzione bachi opencv | |
+| 11 Marzo | 8:00 - 13:35 | Moldoveanu | Documentazione e Programmazione | Aiuto traduzione wiki + musica | |
+| 11 Marzo | 8:00 - 13:35 | Restagno | Grafica e Ordine | Icona del gioco + rinomina file | |
+| 11 Marzo | 8:00 - 13:35 | Obertino | Documentazione | Scrittura del Wiki + traduzione | |
+| 11 Marzo | 8:00 - 13:35 | Giraudo, Lamberti | Programmazione | Integrazione menù di inizio e fine gioco + risoluzione baco lag | |
+| 12 Marzo | 8:00 - 9:00 | Team | Generale | Rifinitura ordine repository + wiki in markdown | |
+| 12 Marzo | 9:00 - 12:00 | Team | Generale | Presentazione generale progetti + saluti finali | |
