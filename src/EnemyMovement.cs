@@ -10,18 +10,18 @@ public class EnemyMovement : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        if(MoveRight){
-            transform.Translate(2*Time.deltaTime*speed,0,0);
-            transform.localScale=new Vector2(1,1);
+        if(MoveRight){ //if this is true
+            transform.Translate(2*Time.deltaTime*speed,0,0); //move the enemy to right
+            transform.localScale=new Vector2(1,1); //rotate the sprite
         }else{
-            transform.Translate(-2*Time.deltaTime*speed,0,0);
-            transform.localScale=new Vector2(-1,1);
+            transform.Translate(-2*Time.deltaTime*speed,0,0); //move the enemy to right
+            transform.localScale=new Vector2(-1,1); //rotate the sprite
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D trig) {
-        if(trig.gameObject.CompareTag("Collider")){
-            if(MoveRight){
+    private void OnTriggerEnter2D(Collider2D trig) { //if collide
+        if(trig.gameObject.CompareTag("Collider")){ //with an object tgged "Collider"
+            if(MoveRight){ //change the value of the variable
                 MoveRight=false;
             }else{
                 MoveRight=true;
